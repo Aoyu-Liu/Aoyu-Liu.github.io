@@ -8,7 +8,7 @@ main:
   code: https://github.com/LiuAoyu1998/STIDGCN
   bibtex: https://usercontent.cljtscd.com/scholar.bib?q=info:9uNYaXGG_HQJ:scholar.google.com/&output=citation&scisdr=ClEsjbG7GAA:AFWwaeYAAAAAZ-aAlMSvPg6lNFiCuEOkmjEVr-k&scisig=AFWwaeYAAAAAZ-aAlCOiGZ8RBb3PZPG2CsGc94E&scisf=4&ct=citation&cd=-1&hl=en
   image: ./assets/img/work1.png
-  notes: ""
+  notes: "Q1, Top"
 
 - title: An Efficient Spatial-Temporal Transformer with Temporal Aggregation and Spatial Memory for Traffic Forecasting
   authors: "<strong>Aoyu Liu</strong>, Yaying Zhang* (*Corresponding authors)"
@@ -18,7 +18,7 @@ main:
   code: https://github.com/LiuAoyu1998/STAMT
   bibtex: https://usercontent.cljtscd.com/scholar.bib?q=info:Q3TWkzL-_GkJ:scholar.google.com/&output=citation&scisdr=ClHxBu_9GAA:AFWwaeYAAAAAZ-aA25_crDrF5TE-aQD2wl4m3WQ&scisig=AFWwaeYAAAAAZ-aA241iUc7JnsHclUBAzIZrx-E&scisf=4&ct=citation&cd=-1&hl=en
   image: ./assets/img/work2.png
-  notes: ""
+  notes: "Q1, Top"
 
 - title: 'CrossST: An Efficient Pre-Training Framework for Cross-District Pattern Generalization in Urban Spatio-Temporal Forecasting'
   authors: "<strong>Aoyu Liu</strong>, Yaying Zhang* (*Corresponding authors)"
@@ -28,7 +28,7 @@ main:
   code: https://github.com/Aoyu-Liu/CrossST
   bibtex: https://aoyu-liu.github.io/ # 待更新为BibTeX文件路径
   image: ./assets/img/work3.png
-  notes: "Oral"
+  notes: "CCF-A"
 
 - title: A Scalable Framework for Spatio-Temporal Continuous Learning in Urban Spatio-Temporal Forecasting
   authors: "<strong>Aoyu Liu</strong>, Yaying Zhang* (*Corresponding authors)"
