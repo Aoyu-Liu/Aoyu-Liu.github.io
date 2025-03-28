@@ -20,7 +20,7 @@ main:
     image: ./assets/img/work2.png
     notes: Accept
 
-  - title: CrossST/: An Efficient Pre-Training Framework for Cross-District Pattern Generalization in Urban Spatio-Temporal Forecasting
+  - title: "CrossST: An Efficient Pre-Training Framework for Cross-District Pattern Generalization in Urban Spatio-Temporal Forecasting"
     authors: <strong>Aoyu Liu</strong>, Yaying Zhang* (*Corresponding authors)
     conference_short: ICDE
     conference: The 41th IEEE International Conference on Data Engineering <strong>(ICDE)</strong>, 2025.
