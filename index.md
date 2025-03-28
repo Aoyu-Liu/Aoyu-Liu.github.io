@@ -4,19 +4,19 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student at ...
+I am a Ph.D. student in Computer Science and Technology at Tongji University.
 
 ## Research Interests
 
-- **Computer Vision:** image recognition, image generation, video captioning
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
+- **Spatio-Temporal Data Mining:** ST forecasting, LLM + ST, ST foundation models
+- **Machine Learning:** continual learning, transfer learning, self-supervised learning
 
 ## News
 
-- **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020.
-- **[Feb. 2020]** We will host the ACM Multimedia Asia 2020 conference in Singapore!
-- **[Sept. 2019]** Our paper about few-shot learning is accepted to NeurIPS 2019.
-- **[Mar. 2019]** Our paper about few-shot learning is accepted to CVPR 2019.
+- **[Mar. 2025]** Our paper about ST pattern generalization is accepted to ICDE 2025.
+- **[Mar. 2024]** Our paper about ST scalability modeling is accepted to ESWA.
+- **[Jan. 2024]** Our paper about ST forecasting is accepted to TITS.
+
 
 {% include_relative _includes/publications.md %}
 
