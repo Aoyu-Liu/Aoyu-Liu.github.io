@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 <p align="center">
-  <img src="./assets/img/tongji.png" width="10%">
+  <img src="./assets/img/tongji.png" width="30%">
 </p>
 I am a Ph.D. student in Computer Science and Technology at Tongji University.
 
