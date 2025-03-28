@@ -3,7 +3,9 @@ layout: homepage
 ---
 
 ## About Me
-
+<p align="center">
+  <img src="assets/work1.png" width="100%">
+</p>
 I am a Ph.D. student in Computer Science and Technology at Tongji University.
 
 ## Research Interests
