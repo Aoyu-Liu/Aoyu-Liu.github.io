@@ -12,7 +12,7 @@ main:
 
 - title: An Efficient Spatial-Temporal Transformer with Temporal Aggregation and Spatial Memory for Traffic Forecasting
   authors: "<strong>Aoyu Liu</strong>, Yaying Zhang* (*Corresponding authors)"
-  conference_short: TITS
+  conference_short: ESWA
   conference: "Expert Systems with Applications <strong>(ESWA)</strong>, 2024."
   pdf: https://www.sciencedirect.com/science/article/abs/pii/S0957417424007504
   code: https://github.com/LiuAoyu1998/STAMT
