@@ -10,5 +10,5 @@
 
 <ul style="margin:0 0 20px;">
   <li><a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=69"><autocolor>IEEE Transactions on Knowledge and Data Engineering (TKDE)</autocolor></a></li>
-  <li><a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6979"><autocolor>IEEE Transactions on Intelligent Transportation Systems TITS)</autocolor></a></li>
+  <li><a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6979"><autocolor>IEEE Transactions on Intelligent Transportation Systems (TITS)</autocolor></a></li>
 </ul>
