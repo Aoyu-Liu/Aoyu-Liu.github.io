@@ -30,7 +30,7 @@ main:
   image: ./assets/img/work3.png
   notes: "CCF-A"
 
-- title: A Scalable Framework for Spatio-Temporal Continuous Learning in Urban Spatio-Temporal Forecasting
+- title: A Scalable Framework for Spatio-Temporal Continuous Learning in Urban Forecasting
   authors: "<strong>Aoyu Liu</strong>, Yaying Zhang* (*Corresponding authors)"
   conference_short: Arxiv
   conference: "This article is currently in progress <strong>(Arxiv)</strong>, 2025."
