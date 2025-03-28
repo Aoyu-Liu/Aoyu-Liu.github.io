@@ -24,9 +24,9 @@ main:
     authors: <strong>Aoyu Liu</strong>, Yaying Zhang* (*Corresponding authors)
     conference_short: ICDE
     conference: The 41th IEEE International Conference on Data Engineering <strong>(ICDE)</strong>, 2025.
-    pdf: #
+    pdf: https://github.com/Aoyu-Liu
     code: https://github.com/Aoyu-Liu/CrossST
-    bibtex: #
+    bibtex: https://github.com/Aoyu-Liu
     image: ./assets/img/work3.png
     notes: Accept
 
@@ -34,8 +34,8 @@ main:
     authors: <strong>Aoyu Liu</strong>, Yaying Zhang* (*Corresponding authors)
     conference_short: Arxiv
     conference: This article is currently in progress <strong>(Arxiv)</strong>, 2025.
-    pdf: #
-    code: #
-    bibtex: #
+    pdf: https://github.com/Aoyu-Liu
+    code: https://github.com/Aoyu-Liu
+    bibtex: https://github.com/Aoyu-Liu
     image: ./assets/img/work4.png
     notes: In Progress
