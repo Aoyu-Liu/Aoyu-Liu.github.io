@@ -30,7 +30,7 @@ main:
   image: ./assets/img/work3.png
   notes: "Oral"
 
-- title: A Scalable Framework for Spatio-temporal Continuous Learning in Urban Spatio-temporal Forecasting
+- title: A Scalable Framework for Spatio-Temporal Continuous Learning in Urban Spatio-Temporal Forecasting
   authors: "<strong>Aoyu Liu</strong>, Yaying Zhang* (*Corresponding authors)"
   conference_short: Arxiv
   conference: "This article is currently in progress <strong>(Arxiv)</strong>, 2025."
