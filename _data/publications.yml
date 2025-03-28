@@ -1,22 +1,41 @@
 main:
 
-  - title: Continual Learning for Abdominal Multi-Organ and Tumor Segmentation
-    authors: Yixiao Zhang, Xinyi Li, Huimiao Chen, Alan Yuille, <strong>Yaoyao Liu*</strong>, Zongwei Zhou* (*Corresponding authors)
-    conference_short: MICCAI
-    conference: International Conference on Medical Image Computing and Computer-Assisted Intervention <strong>(MICCAI)</strong>, 2023.
-    pdf: https://arxiv.org/pdf/2306.00988.pdf
-    code: https://github.com/MrGiovanni/ContinualLearning
-    bibtex: https://bib.yliu.me/MICCAI23.txt
-    image: ./assets/img/teaser_example_2.png
-    notes: Early Accept
+  - title: Spatial–Temporal Dynamic Graph Convolutional Network with Interactive Learning for Traffic Forecasting
+    authors: <strong>Aoyu Liu</strong>, Yaying Zhang* (*Corresponding authors)
+    conference_short: TITS
+    conference: IEEE Transactions on Intelligent Transportation Systems <strong>(TITS)</strong>, 2024.
+    pdf: https://ieeexplore.ieee.org/document/10440184
+    code: https://github.com/LiuAoyu1998/STIDGCN
+    bibtex: https://usercontent.cljtscd.com/scholar.bib?q=info:9uNYaXGG_HQJ:scholar.google.com/&output=citation&scisdr=ClEsjbG7GAA:AFWwaeYAAAAAZ-aAlMSvPg6lNFiCuEOkmjEVr-k&scisig=AFWwaeYAAAAAZ-aAlCOiGZ8RBb3PZPG2CsGc94E&scisf=4&ct=citation&cd=-1&hl=en
+    image: ./assets/img/work1.png
+    notes: Accept
 
-  - title: "Mnemonics Training: Multi-Class Incremental Learning without Forgetting"
-    authors: <strong>Yaoyao Liu</strong>, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
-    conference_short: CVPR
-    conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2020.
-    pdf: https://arxiv.org/pdf/2002.10211.pdf
-    code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
-    page: https://class-il.mpi-inf.mpg.de/mnemonics/
-    bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
-    notes: Oral Presentation
-    image: ./assets/img/teaser_example.png
+  - title: An Efficient Spatial-Temporal Transformer with Temporal Aggregation and Spatial Memory for Traffic Forecasting
+    authors: <strong>Aoyu Liu</strong>, Yaying Zhang* (*Corresponding authors)
+    conference_short: TITS
+    conference: Expert Systems with Applications <strong>(ESWA)</strong>, 2024.
+    pdf: https://www.sciencedirect.com/science/article/abs/pii/S0957417424007504
+    code: https://github.com/LiuAoyu1998/STAMT
+    bibtex: https://usercontent.cljtscd.com/scholar.bib?q=info:Q3TWkzL-_GkJ:scholar.google.com/&output=citation&scisdr=ClHxBu_9GAA:AFWwaeYAAAAAZ-aA25_crDrF5TE-aQD2wl4m3WQ&scisig=AFWwaeYAAAAAZ-aA241iUc7JnsHclUBAzIZrx-E&scisf=4&ct=citation&cd=-1&hl=en
+    image: ./assets/img/work2.png
+    notes: Accept
+
+  - title: CrossST: An Efficient Pre-Training Framework for Cross-District Pattern Generalization in Urban Spatio-Temporal Forecasting
+    authors: <strong>Aoyu Liu</strong>, Yaying Zhang* (*Corresponding authors)
+    conference_short: ICDE
+    conference: The 41th IEEE International Conference on Data Engineering <strong>(ICDE)</strong>, 2025.
+    pdf: #
+    code: https://github.com/Aoyu-Liu/CrossST
+    bibtex: #
+    image: ./assets/img/work3.png
+    notes: Accept
+
+  - title: A Scalable Framework for Spatio-temporal Continuous Learning in Urban Spatio-temporal Forecasting
+    authors: <strong>Aoyu Liu</strong>, Yaying Zhang* (*Corresponding authors)
+    conference_short: Arxiv
+    conference: This article is currently in progress <strong>(Arxiv)</strong>, 2025.
+    pdf: #
+    code: #
+    bibtex: #
+    image: ./assets/img/work4.png
+    notes: In Progress
