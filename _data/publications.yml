@@ -1,5 +1,25 @@
 main:
 
+- title: 'UrbanPG: An Efficient Framework with Personalized Context and General Backbone Interaction for Urban Spatio-Temporal Learning'
+  authors: "<strong>Aoyu Liu</strong>, Yaying Zhang* (*Corresponding authors)"
+  conference_short: ICDE
+  conference: "The 40th Annual AAAI Conference on Artificial Intelligence <strong>(AAAI)</strong>, 2025."
+  pdf: https://aoyu-liu.github.io/ # 待更新为正式链接
+  code: https://github.com/Aoyu-Liu/UrbanPG
+  bibtex: https://aoyu-liu.github.io/ # 待更新为BibTeX文件路径
+  image: ./assets/img/aaai_urbanpg.png
+  notes: "CCF-A"
+  
+- title: 'CrossST: An Efficient Pre-Training Framework for Cross-District Pattern Generalization in Urban Spatio-Temporal Forecasting'
+  authors: "<strong>Aoyu Liu</strong>, Yaying Zhang* (*Corresponding authors)"
+  conference_short: ICDE
+  conference: "The 41st IEEE International Conference on Data Engineering <strong>(ICDE)</strong>, 2025."
+  pdf: https://aoyu-liu.github.io/ # 待更新为正式链接
+  code: https://github.com/Aoyu-Liu/CrossST
+  bibtex: https://aoyu-liu.github.io/ # 待更新为BibTeX文件路径
+  image: ./assets/img/work3.png
+  notes: "CCF-A"
+  
 - title: Spatial–Temporal Dynamic Graph Convolutional Network with Interactive Learning for Traffic Forecasting
   authors: "<strong>Aoyu Liu</strong>, Yaying Zhang* (*Corresponding authors)"
   conference_short: TITS
@@ -19,16 +39,6 @@ main:
   bibtex: https://usercontent.cljtscd.com/scholar.bib?q=info:Q3TWkzL-_GkJ:scholar.google.com/&output=citation&scisdr=ClHxBu_9GAA:AFWwaeYAAAAAZ-aA25_crDrF5TE-aQD2wl4m3WQ&scisig=AFWwaeYAAAAAZ-aA241iUc7JnsHclUBAzIZrx-E&scisf=4&ct=citation&cd=-1&hl=en
   image: ./assets/img/work2.png
   notes: "Q1, Top"
-
-- title: 'CrossST: An Efficient Pre-Training Framework for Cross-District Pattern Generalization in Urban Spatio-Temporal Forecasting'
-  authors: "<strong>Aoyu Liu</strong>, Yaying Zhang* (*Corresponding authors)"
-  conference_short: ICDE
-  conference: "The 41st IEEE International Conference on Data Engineering <strong>(ICDE)</strong>, 2025."
-  pdf: https://aoyu-liu.github.io/ # 待更新为正式链接
-  code: https://github.com/Aoyu-Liu/CrossST
-  bibtex: https://aoyu-liu.github.io/ # 待更新为BibTeX文件路径
-  image: ./assets/img/work3.png
-  notes: "CCF-A"
 
 - title: A Scalable Framework for Spatio-Temporal Continuous Learning in Urban Forecasting
   authors: "<strong>Aoyu Liu</strong>, Yaying Zhang* (*Corresponding authors)"
