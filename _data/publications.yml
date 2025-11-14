@@ -7,7 +7,7 @@ main:
   pdf: https://aoyu-liu.github.io/ # 待更新为正式链接
   code: https://github.com/Aoyu-Liu/UrbanPG
   bibtex: https://aoyu-liu.github.io/ # 待更新为BibTeX文件路径
-  image: ./assets/img/d54da901384ed5a1df14931f03eaae091.png
+  image: ./assets/img/d54da901384ed5a1df14931f03eaae09.png
   notes: "CCF-A, Oral"
   
 - title: 'CrossST: An Efficient Pre-Training Framework for Cross-District Pattern Generalization in Urban Spatio-Temporal Forecasting'
