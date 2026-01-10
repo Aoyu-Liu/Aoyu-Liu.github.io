@@ -1,0 +1,51 @@
+main:
+
+- title: 'UrbanPG: An Efficient Framework with Personalized Context and General Backbone Interaction for Urban Spatio-Temporal Learning'
+  authors: "<strong>Aoyu Liu</strong>, Yaying Zhang* (*Corresponding authors)"
+  conference_short: AAAI
+  conference: "The 40th Annual AAAI Conference on Artificial Intelligence <strong>(AAAI, Oral)</strong>, 2025."
+  pdf: https://aoyu-liu.github.io/ # 待更新为正式链接
+  code: https://github.com/Aoyu-Liu/UrbanPG
+  bibtex: https://aoyu-liu.github.io/ # 待更新为BibTeX文件路径
+  image: ./assets/img/d54da901384ed5a1df14931f03eaae09.png
+  notes: "CCF-A, Oral"
+  
+- title: 'CrossST: An Efficient Pre-Training Framework for Cross-District Pattern Generalization in Urban Spatio-Temporal Forecasting'
+  authors: "<strong>Aoyu Liu</strong>, Yaying Zhang* (*Corresponding authors)"
+  conference_short: ICDE
+  conference: "The 41st IEEE International Conference on Data Engineering <strong>(ICDE)</strong>, 2025."
+  pdf: https://aoyu-liu.github.io/ # 待更新为正式链接
+  code: https://github.com/Aoyu-Liu/CrossST
+  bibtex: https://aoyu-liu.github.io/ # 待更新为BibTeX文件路径
+  image: ./assets/img/work3.png
+  notes: "CCF-A"
+  
+- title: Spatial–Temporal Dynamic Graph Convolutional Network with Interactive Learning for Traffic Forecasting
+  authors: "<strong>Aoyu Liu</strong>, Yaying Zhang* (*Corresponding authors)"
+  conference_short: TITS
+  conference: "IEEE Transactions on Intelligent Transportation Systems <strong>(TITS)</strong>, 2024."
+  pdf: https://ieeexplore.ieee.org/document/10440184
+  code: https://github.com/LiuAoyu1998/STIDGCN
+  bibtex: https://usercontent.cljtscd.com/scholar.bib?q=info:9uNYaXGG_HQJ:scholar.google.com/&output=citation&scisdr=ClEsjbG7GAA:AFWwaeYAAAAAZ-aAlMSvPg6lNFiCuEOkmjEVr-k&scisig=AFWwaeYAAAAAZ-aAlCOiGZ8RBb3PZPG2CsGc94E&scisf=4&ct=citation&cd=-1&hl=en
+  image: ./assets/img/work1.png
+  notes: "Q1, Top"
+
+- title: An Efficient Spatial-Temporal Transformer with Temporal Aggregation and Spatial Memory for Traffic Forecasting
+  authors: "<strong>Aoyu Liu</strong>, Yaying Zhang* (*Corresponding authors)"
+  conference_short: ESWA
+  conference: "Expert Systems with Applications <strong>(ESWA)</strong>, 2024."
+  pdf: https://www.sciencedirect.com/science/article/abs/pii/S0957417424007504
+  code: https://github.com/LiuAoyu1998/STAMT
+  bibtex: https://usercontent.cljtscd.com/scholar.bib?q=info:Q3TWkzL-_GkJ:scholar.google.com/&output=citation&scisdr=ClHxBu_9GAA:AFWwaeYAAAAAZ-aA25_crDrF5TE-aQD2wl4m3WQ&scisig=AFWwaeYAAAAAZ-aA241iUc7JnsHclUBAzIZrx-E&scisf=4&ct=citation&cd=-1&hl=en
+  image: ./assets/img/work2.png
+  notes: "Q1, Top"
+
+- title: A Scalable Framework for Spatio-Temporal Continuous Learning in Urban Forecasting
+  authors: "<strong>Aoyu Liu</strong>, Yaying Zhang* (*Corresponding authors)"
+  conference_short: Arxiv
+  conference: "This article is currently in progress <strong>(Arxiv)</strong>, 2025."
+  pdf: https://aoyu-liu.github.io/ # 待更新为预印本链接
+  code: https://aoyu-liu.github.io/ # 待更新为仓库路径
+  bibtex: https://aoyu-liu.github.io/ # 待更新为BibTeX文件路径
+  image: ./assets/img/work4.png
+  notes: "In Progress"
