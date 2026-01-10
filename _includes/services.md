@@ -1,3 +1,11 @@
+## Awards and Honors
+<ul style="margin:0 0 20px;">
+  <li><autocolor>ICDE Student Travel Grant (May. 2025)</autocolor></li>
+  <li><autocolor>Tongji University Graduate Student Social Activity Scholarship (Nov. 2025)</autocolor></li>
+  <li><autocolor>Tongji University Outstanding Doctoral Freshman Scholarship (Dec. 2021)</autocolor></li>
+  <li><autocolor>Outstanding Graduate of Anhui Province (Jun. 2021)</autocolor></li>
+</ul>
+
 ## Services
 
 <h4 style="margin:0 10px 0;">Conference Reviewers</h4>
