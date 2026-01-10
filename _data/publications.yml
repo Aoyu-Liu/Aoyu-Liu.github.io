@@ -3,7 +3,7 @@ main:
 - title: 'UrbanPG: An Efficient Framework with Personalized Context and General Backbone Interaction for Urban Spatio-Temporal Learning'
   authors: "<strong>Aoyu Liu</strong>, Yaying Zhang* (*Corresponding authors)"
   conference_short: AAAI
-  conference: "The 40th Annual AAAI Conference on Artificial Intelligence <strong>(AAAI, Oral)</strong>, 2025."
+  conference: "The 40th Annual AAAI Conference on Artificial Intelligence <strong>(AAAI, Oral)</strong>, 2026."
   pdf: https://aoyu-liu.github.io/ # 待更新为正式链接
   code: https://github.com/Aoyu-Liu/UrbanPG
   bibtex: https://aoyu-liu.github.io/ # 待更新为BibTeX文件路径
