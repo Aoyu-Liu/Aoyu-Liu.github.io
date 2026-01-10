@@ -14,7 +14,7 @@ main:
   authors: "<strong>Aoyu Liu</strong>, Yaying Zhang* (*Corresponding authors)"
   conference_short: ICDE
   conference: "The 41st IEEE International Conference on Data Engineering <strong>(ICDE)</strong>, 2025."
-  pdf: https://aoyu-liu.github.io/ # 待更新为正式链接
+  pdf: https://ieeexplore.ieee.org/abstract/document/11113093 # 待更新为正式链接
   code: https://github.com/Aoyu-Liu/CrossST
   bibtex: https://aoyu-liu.github.io/ # 待更新为BibTeX文件路径
   image: ./assets/img/work3.png
