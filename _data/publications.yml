@@ -3,7 +3,7 @@ main:
 - title: A General Spatio-Temporal Backbone with Scalable Contextual Pattern Bank for Urban Continual Forecasting
   authors: "<strong>Aoyu Liu</strong>, Yaying Zhang* (*Corresponding authors)"
   conference_short: ICLR
-  conference: "The Fourteenth International Conference on Learning Representations</strong>(ICLR), 2026."
+  conference: "The Fourteenth International Conference on Learning Representations <strong>(ICLR)</strong>, 2026."
   pdf: https://aoyu-liu.github.io/ # 待更新为预印本链接
   code: https://aoyu-liu.github.io/ # 待更新为仓库路径
   bibtex: https://aoyu-liu.github.io/ # 待更新为BibTeX文件路径
