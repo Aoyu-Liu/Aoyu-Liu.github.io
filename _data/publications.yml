@@ -1,5 +1,15 @@
 main:
 
+- title: A General Spatio-Temporal Backbone with Scalable Contextual Pattern Bank for Urban Continual Forecasting
+  authors: "<strong>Aoyu Liu</strong>, Yaying Zhang* (*Corresponding authors)"
+  conference_short: ICLR
+  conference: "The Fourteenth International Conference on Learning Representations</strong>(ICLR), 2026."
+  pdf: https://aoyu-liu.github.io/ # 待更新为预印本链接
+  code: https://aoyu-liu.github.io/ # 待更新为仓库路径
+  bibtex: https://aoyu-liu.github.io/ # 待更新为BibTeX文件路径
+  image: ./assets/img/work4.png
+  notes: "Accept"
+  
 - title: 'UrbanPG: An Efficient Framework with Personalized Context and General Backbone Interaction for Urban Spatio-Temporal Learning'
   authors: "<strong>Aoyu Liu</strong>, Yaying Zhang* (*Corresponding authors)"
   conference_short: AAAI
@@ -39,13 +49,3 @@ main:
   bibtex: https://usercontent.cljtscd.com/scholar.bib?q=info:Q3TWkzL-_GkJ:scholar.google.com/&output=citation&scisdr=ClHxBu_9GAA:AFWwaeYAAAAAZ-aA25_crDrF5TE-aQD2wl4m3WQ&scisig=AFWwaeYAAAAAZ-aA241iUc7JnsHclUBAzIZrx-E&scisf=4&ct=citation&cd=-1&hl=en
   image: ./assets/img/work2.png
   notes: "Q1, Top"
-
-- title: A Scalable Framework for Spatio-Temporal Continuous Learning in Urban Forecasting
-  authors: "<strong>Aoyu Liu</strong>, Yaying Zhang* (*Corresponding authors)"
-  conference_short: Arxiv
-  conference: "This article is currently in progress <strong>(Arxiv)</strong>, 2025."
-  pdf: https://aoyu-liu.github.io/ # 待更新为预印本链接
-  code: https://aoyu-liu.github.io/ # 待更新为仓库路径
-  bibtex: https://aoyu-liu.github.io/ # 待更新为BibTeX文件路径
-  image: ./assets/img/work4.png
-  notes: "In Progress"
