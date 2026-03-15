@@ -10,10 +10,9 @@ I am a Ph.D. student in Computer Science and Technology at **Tongji University**
 
 ## Research Interests
 I am dedicated to advancing AI for Science and Large Language Models (LLMs), while actively exploring the frontier of World Models. My primary research directions span:
-- **Spatio-Temporal Data Mining:** ST forecasting, LLM-driven ST modeling, and ST foundation models.
+- **Spatio-Temporal Data Mining:** LLM-driven ST modeling, and ST foundation models.
 - **Robust Machine Learning:** Continual learning, out-of-distribution generalization, and cross-domain transfer learning.
-- 
-
+  
 ## News
 - **[Jan. 2026]** Our paper about ST continual forecasting is accepted to ICLR 2026.
 - **[Nov. 2025]** Our paper about ST learning is accepted to AAAI 2026.
