@@ -1,14 +1,24 @@
 main:
 
-- title: A General Spatio-Temporal Backbone with Scalable Contextual Pattern Bank for Urban Continual Forecasting
+- title: 'A Physics-Inspired Framework for Robust Spatio-Temporal Forecasting'
+  authors: "<strong>Aoyu Liu</strong>, Yaying Zhang* (*Corresponding authors)"
+  conference_short: Under Review
+  conference: ", 2026."
+  pdf: https://aoyu-liu.github.io/ # 待更新为预印本链接
+  code: https://aoyu-liu.github.io/
+  bibtex: https://aoyu-liu.github.io/ # 待更新为BibTeX文件路径
+  image: ./assets/img/work6.png
+  notes: "CCF-A"
+  
+- title: 'A General Spatio-Temporal Backbone with Scalable Contextual Pattern Bank for Urban Continual Forecasting'
   authors: "<strong>Aoyu Liu</strong>, Yaying Zhang* (*Corresponding authors)"
   conference_short: ICLR
   conference: "The Fourteenth International Conference on Learning Representations <strong>(ICLR)</strong>, 2026."
-  pdf: https://aoyu-liu.github.io/ # 待更新为预印本链接
-  code: https://aoyu-liu.github.io/ # 待更新为仓库路径
+  pdf: https://openreview.net/pdf?id=LHSea6DI8U # 待更新为预印本链接
+  code: https://github.com/Aoyu-Liu/STBP
   bibtex: https://aoyu-liu.github.io/ # 待更新为BibTeX文件路径
   image: ./assets/img/work4.png
-  notes: "Accept"
+  notes: "CCF-A"
   
 - title: 'UrbanPG: An Efficient Framework with Personalized Context and General Backbone Interaction for Urban Spatio-Temporal Learning'
   authors: "<strong>Aoyu Liu</strong>, Yaying Zhang* (*Corresponding authors)"
