@@ -38,7 +38,7 @@ main:
   code: https://github.com/Aoyu-Liu/CrossST
   bibtex: https://aoyu-liu.github.io/ # 待更新为BibTeX文件路径
   image: ./assets/img/work3.png
-  notes: "CCF-A"
+  notes: "CCF-A, Oral"
   
 - title: Spatial–Temporal Dynamic Graph Convolutional Network with Interactive Learning for Traffic Forecasting
   authors: "<strong>Aoyu Liu</strong>, Yaying Zhang* (*Corresponding authors)"
