@@ -3,12 +3,12 @@ main:
 - title: 'A Physics-Inspired Framework for Robust Spatio-Temporal Forecasting'
   authors: "<strong>Aoyu Liu</strong>, Yaying Zhang* (*Corresponding authors)"
   conference_short: Under Review
-  conference: ", 2026."
+  conference: ""
   pdf: https://aoyu-liu.github.io/ # 待更新为预印本链接
   code: https://aoyu-liu.github.io/
   bibtex: https://aoyu-liu.github.io/ # 待更新为BibTeX文件路径
   image: ./assets/img/work6.png
-  notes: "CCF-A"
+  notes: ""
   
 - title: 'A General Spatio-Temporal Backbone with Scalable Contextual Pattern Bank for Urban Continual Forecasting'
   authors: "<strong>Aoyu Liu</strong>, Yaying Zhang* (*Corresponding authors)"
