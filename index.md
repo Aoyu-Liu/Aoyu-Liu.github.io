@@ -9,7 +9,7 @@ layout: homepage
 I am a Ph.D. student in Computer Science and Technology at **Tongji University**, expecting to graduate in **March 2027**. My research has been published in top-tier AI and data mining venues, including **ICLR**, **AAAI**, **IEEE TITS**, and **ESWA**.
 
 ## Research Interests
-I am dedicated to advancing AI for Science and Large Language Models (LLMs), while actively exploring the frontier of World Models. My primary research directions span:
+I am dedicated to advancing **AI for Science** and **Large Language Models (LLMs)**, while actively exploring the frontier of **World Models**. My primary research directions span:
 - **Spatio-Temporal Data Mining:** LLM-driven ST modeling, and ST foundation models.
 - **Robust Machine Learning:** Continual learning, out-of-distribution generalization, and cross-domain transfer learning.
   
