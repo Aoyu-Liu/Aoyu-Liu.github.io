@@ -6,7 +6,7 @@ layout: homepage
 <p align="left">
   <img src="./assets/img/tongji.png" width="25%">
 </p>
-I am a Ph.D. student in Computer Science and Technology at Tongji University.
+I am a Ph.D. student in Computer Science and Technology at Tongji University. I anticipate graduating with my Ph.D. in March 2027.
 
 ## Research Interests
 
