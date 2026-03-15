@@ -24,9 +24,9 @@ main:
   authors: "<strong>Aoyu Liu</strong>, Yaying Zhang* (*Corresponding authors)"
   conference_short: AAAI
   conference: "The 40th Annual AAAI Conference on Artificial Intelligence <strong>(AAAI, Oral)</strong>, 2026."
-  pdf: https://aoyu-liu.github.io/ # 待更新为正式链接
+  pdf: https://aaai.org/wp-content/uploads/2026/01/Main-track-oral-talks.pdf # 待更新为正式链接
   code: https://github.com/Aoyu-Liu/UrbanPG
-  bibtex: https://aoyu-liu.github.io/ # 待更新为BibTeX文件路径
+  bibtex: https://aaai.org/wp-content/uploads/2026/01/Main-track-oral-talks.pdf # 待更新为BibTeX文件路径
   image: ./assets/img/d54da901384ed5a1df14931f03eaae09.png
   notes: "CCF-A, Oral"
   
