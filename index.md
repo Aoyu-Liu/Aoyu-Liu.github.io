@@ -14,6 +14,7 @@ I am dedicated to advancing **AI for Science** and **Large Language Models (LLMs
 - **Robust Machine Learning:** Continual learning, out-of-distribution generalization, and cross-domain transfer learning.
   
 ## News
+- **[May. 2026]** Our paper about Robust ST forecasting is accepted to ICML 2026.
 - **[Jan. 2026]** Our paper about ST continual forecasting is accepted to ICLR 2026.
 - **[Nov. 2025]** Our paper about ST learning is accepted to AAAI 2026.
 - **[Mar. 2025]** Our paper about ST pattern generalization is accepted to ICDE 2025.
