@@ -1,7 +1,7 @@
 main:
 
 - title: 'Decoupling Universal Laws and Environmental Heterogeneity: A Physics-Inspired Framework for Robust Spatio-Temporal Forecasting'
-  authors: "<strong>Aoyu Liu</strong>, Yaying Zhang* (*Corresponding authors)"
+  authors: "<strong>Aoyu Liu</strong>, Liming Wei, Yaying Zhang* (*Corresponding authors)"
   conference_short: ICML
   conference: "The Forty-third International Conference on Machine Learning"
   pdf: https://aoyu-liu.github.io/ # 待更新为预印本链接
