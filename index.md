@@ -6,7 +6,7 @@ layout: homepage
 <p align="left">
   <img src="./assets/img/tongji.png" width="25%">
 </p>
-I am a Ph.D. student in Computer Science and Technology at **Tongji University**, expecting to graduate in **March 2027**. My research has been published in top-tier AI and data mining venues, including **ICLR**, **AAAI**, **ICDE**, **IEEE TITS**, and **ESWA**.
+I am a Ph.D. student in Computer Science and Technology at **Tongji University**, expecting to graduate in **March 2027**. My research has been published in top-tier AI and data mining venues, including **ICML**, **ICLR**, **AAAI**, **ICDE**, **IEEE TITS**, and **ESWA**.
 
 ## Research Interests
 I am dedicated to advancing **AI for Science** and **Large Language Models (LLMs)**, while actively exploring the frontier of **World Models**. My primary research directions span:
